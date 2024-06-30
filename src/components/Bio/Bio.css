@@ -1,0 +1,16 @@
+.bio-container {
+    padding: 20px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.bio-heading {
+    font-size: 2em;
+    color: #333;
+}
+
+.bio-paragraph {
+    font-size: 1.2em;
+    color: #666;
+}
