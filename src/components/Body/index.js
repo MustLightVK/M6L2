@@ -1,8 +1,9 @@
 import Info from "../Info";
+import './Body.css';
 
 const Body = () => {
     return (
-        <div>
+        <div className="body-container">
             <Info/>
         </div>
     )
